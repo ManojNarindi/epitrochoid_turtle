@@ -3,7 +3,8 @@ import math as m
 import numpy as np
 
 radius1 = 100
-k = int(input())
+print("1st circle radius is set to 100, enter integer for k, where k is the factor r2 = r1/k")
+k = int(input("k = "))
 
 manoj = turtle.Turtle()
 
